@@ -1,0 +1,56 @@
+---
+layout: default
+---
+
+<div class="row post-layout-header">
+
+	<!-- Header Image -->
+	<div class="six columns post-layout-header-image">
+		<br>
+		<br>
+		<br>
+		<img src="{{ site.url }}{{ page.image-slider }}" alt="{{ page.imageAlt }}">
+	</div>
+	<!-- Header Info -->
+	<div class="six columns post-layout-header-info">
+		<!-- General Info -->
+		<h2><span style="color: #ffffff;">{{ page.title }}</span></h2>
+		<p><strong>{{ page.excerpt }}</strong></p>
+		<!-- <p><strong>{{ page.author }}</strong></p> -->
+		<!-- <p><strong><time datetime="{{ page.date | date: "%-d %b %y" }}">{{ page.date | date: "%-d %b %y" }}</time></strong></p> -->
+
+		<!-- Tags -->
+		<p><strong>Tags:
+		{% for category in page.categories %}
+		{{ category }}
+		{% endfor %}
+
+		{% for tag in page.tags %}
+		{{ tag }}
+		{% endfor %}
+		</strong>
+		</p>
+
+		<!-- Github Link -->
+		{% if page.github %}
+		<p class="button-style-post"><a href="{{ page.github }}"><strong>GitHub </strong><i class="icon fa fa-github-square" aria-hidden="true"></i></a></p>
+		{% endif %}
+
+		<!-- External Website -->
+		{% if page.external-website %}
+		<p class="button-style-post"><a href="{{ page.external-website }}"><strong>Website</strong> <i class="icon fa fa-external-link" aria-hidden="true"></i></a></p>
+		{% endif %}
+	</div>
+</div>
+
+<br><br>
+
+<div class="container">
+
+    <!-- Post Content -->
+    <div class="post-layout-content">
+	    {{ content }}
+	</div>
+
+</div>
+{% include disqus_comments.html %}

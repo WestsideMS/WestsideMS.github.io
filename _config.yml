@@ -1,25 +1,30 @@
 # Site settings
-title: WestsideMS
-description: A blog about Minsung Kim @dyros
+title: Minsung Kim
+description: A blog about Minsung Kim a.k.a WestsideMS
 # baseurl: "/particle" # the subpath of your site, e.g. /blog
 # url: "localhost:3000" # the base hostname & protocol for your site e.g. http://willianjusten.com.br
 
 # User settings
 username: Minsung Kim
-user_description: Ph.d (2021.08) (Robotics)
-user_title:
+user_description: 
+user_title: Ph.d (Robotics->2021,08)
 email: minsungkim@snu.ac.kr
 #twitter_username: lorem_ipsum
-github_username: "WestsideMS"
-gplus_username:  "WestsideMS"
+github_username: "westsidems"
+gplus_username:  "westsidems"
 
 # Google-analytics
+#google-analytics:
+#  id:  UA-130664770-1 
 
-# Build settings 
+exclude: ['package.json', 'src' , 'node_modules']
+
+# Build settings
 markdown: kramdown
 theme: minima
 plugins:
   - jekyll-feed
+
 # Exclude from processing.
 # The following items will not be processed, by default. Create a custom list
 # to override the default setting.
@@ -31,3 +36,4 @@ plugins:
 #   - vendor/cache/
 #   - vendor/gems/
 #   - vendor/ruby/
+
