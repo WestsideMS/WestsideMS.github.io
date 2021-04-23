@@ -1,11 +1,11 @@
 ---
 layout: post
-title: Human Imitation 
-author: Sanghyun Kim
-date:   2018-11-30 7:00:00 -0400
-permalink: /Imitation-project
+title: Automatic switching point selection using model predictive control scheme while parking maneuver 
+author: Minsung Kim
+date:   2021-04-23 7:00:00 -0400
+permalink: /Switching-project
 categories: projects
-tags: HQP
+tags: MPC
 excerpt: We implemented various algorithms to transfer from human motion to robot.  
 
 image: /assets/img/project-images/7.imitation/main.png
