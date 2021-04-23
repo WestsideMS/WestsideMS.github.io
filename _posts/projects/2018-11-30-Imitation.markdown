@@ -3,7 +3,7 @@ layout: post
 title: Automatic switching point selection using model predictive control scheme while parking maneuver 
 author: Minsung Kim
 date:   2021-04-23 7:00:00 -0400
-permalink: /Switching-project
+permalink: /Imitation-project
 categories: projects
 tags: MPC
 excerpt: We implemented various algorithms to transfer from human motion to robot.  
