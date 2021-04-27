@@ -20,7 +20,7 @@ This is an ongoing project in order to address the recursive feasibility and sta
 <div class="row projects-display">
 	<div class="six columns">
         <div class="video-container">
-            <iframe width="560" height="315" src="https://www.youtube.com/watch?v=KJVo_7RSWbk" frameborder="0" allowfullscreen></iframe>
+            <iframe width="560" height="315" src="http://youtu.be/KJVo_7RSWbk" frameborder="0" allowfullscreen></iframe>
         </div>
 	</div>
 </div>
