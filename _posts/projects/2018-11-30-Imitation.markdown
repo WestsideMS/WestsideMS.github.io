@@ -8,9 +8,9 @@ categories: projects
 tags: MPC
 excerpt: We implemented various algorithms to transfer from human motion to robot.  
 
-image: /assets/img/project-images/7.imitation/main.png
+image: /assets/img/project-images/1.mobile/auto_switching.png
 imageAlt: HQP logo
-image-slider: /assets/img/project-images/7.imitation/main.png
+image-slider: /assets/img/project-images/1.mobile/auto_switching.png
 
 ---
 ### Overview
