@@ -12,7 +12,7 @@ external-website: http://dyros.snu.ac.kr/project/korea-autonomous-vehicle-contes
 
 image: /assets/img/project-images/5.cpr/vehicle_conteset1.jpg
 imageAlt: HQP logo
-image-slider: /assets/img/project-images/5.cpr/vehicle_conteset2.jpg
+image-slider: /assets/img/project-images/5.cpr/vehicle_conteset2.JPG
 
 ---
 ### Overview
