@@ -19,7 +19,7 @@ title: Please visit the main screen to read the CV
 # pdf: https://www.mdpi.com/1424-8220/21/3/890
 # sourcecode: 
 
-image: <a href="/assets/pdf/cv/CV.pdf"> here</a>
+# image: <a href="/assets/pdf/cv/CV.pdf"> here</a>
 
 # imageAlt: HQP logo
 # image-slider: /assets/img/post-images/slider-images/kroc2020.png
