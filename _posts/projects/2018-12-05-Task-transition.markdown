@@ -1,7 +1,7 @@
 ---
 layout: post
-title: Ongoing-project, 
-author: Sanghyun Kim
+title: Ongoing-project (Carsim) 
+author: Minsung Kim
 date:   2018-12-05 7:00:00 -0400
 permalink: /tasktransition-project
 categories: projects
