@@ -50,7 +50,7 @@ It has a powerful computation unit to solve complicated whole-body dynamics and 
 	- Basic BiRRT(-connect) algorithm
 	- VKC based dual-arm manipulation algorithm  -->
 
-### Experimental Results
+### Simulation and Experimental Results
 <div class="row projects-display">
     <div class="six columns images">
         <div class="video-container">
