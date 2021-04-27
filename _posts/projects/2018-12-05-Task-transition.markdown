@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Ongoing-project (Carsim) 
+title: (Ongoing-project) Path-following and collision avoidance with Variable Interval Prediction MPC (VIP-MPC)
 author: Minsung Kim
 date:   2018-12-05 7:00:00 -0400
 permalink: /tasktransition-project

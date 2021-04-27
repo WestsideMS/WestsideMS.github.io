@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Autonomous Parking Method Using Model Predictive Control:a feasibility and stability study 
+title: (Ongoing-project) Autonomous Parking Method Using Model Predictive Control:a feasibility and stability study 
 author: Minsung Kim
 date:   2021-04-23 7:00:00 -0400
 permalink: /Switching-project
