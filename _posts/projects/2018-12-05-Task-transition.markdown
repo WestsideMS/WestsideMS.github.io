@@ -16,8 +16,19 @@ imageAlt: HQP logo
 image-slider: /assets/img/project-images/2.task/mpc_carsim.png
 
 ---
-### Overview
-The robots with high Degrees of Freedom (DoF) such as humanoids and mobile manipulators are expected to perform multiple tasks simultaneously. Hierarchical Quadratic Programming (HQP) can effectively compute a solution for strictly prioritized tasks. However, the continuity of control input is not guaranteed when the priorities of the tasks are modified during operation. This paper proposes a continuous task transition method for HQP based controller to insert, remove, and swap arbitrary tasks without discontinuity. Smooth task transition is assured because our approach uses activation parameters of the new and existing tasks without modifying control structure. The proposed approach is applied to various task transition scenarios including joint limit, singularity, and obstacle avoidance to guarantee the stable execution of the robot. The proposed control scheme was implemented on a 7-DoF robotic arm, and its performance was demonstrated by the continuity of control input during various task transition scenarios.
+<!-- ### Overview
+The robots with high Degrees of Freedom (DoF) such as humanoids and mobile manipulators are expected to perform multiple tasks simultaneously. Hierarchical Quadratic Programming (HQP) can effectively compute a solution for strictly prioritized tasks. However, the continuity of control input is not guaranteed when the priorities of the tasks are modified during operation. This paper proposes a continuous task transition method for HQP based controller to insert, remove, and swap arbitrary tasks without discontinuity. Smooth task transition is assured because our approach uses activation parameters of the new and existing tasks without modifying control structure. The proposed approach is applied to various task transition scenarios including joint limit, singularity, and obstacle avoidance to guarantee the stable execution of the robot. The proposed control scheme was implemented on a 7-DoF robotic arm, and its performance was demonstrated by the continuity of control input during various task transition scenarios.  -->
+
+### Experimental Results
+<div class="row projects-display">
+    <div class="six columns images">
+        <div class="video-container">
+            <iframe width="560" height="315" src="https://www.youtube.com/embed/zjRWDb2kr3o" frameborder="0" allowfullscreen></iframe>
+        </div>
+    </div>
+</div>
+
+
 
 <!-- ### Experimental Equipments
 <div class="row projects-display">
@@ -58,11 +69,4 @@ The robots with high Degrees of Freedom (DoF) such as humanoids and mobile manip
 	- Many researches on the improvement of the computation time of the HQP solver.
 	- Thus, this method is acceptable to the robotic community. -->
 
-### Experimental Results
-<div class="row projects-display">
-    <div class="six columns images">
-        <div class="video-container">
-            <iframe width="560" height="315" src="https://www.youtube.com/embed/zjRWDb2kr3o" frameborder="0" allowfullscreen></iframe>
-        </div>
-    </div>
-</div>
+
