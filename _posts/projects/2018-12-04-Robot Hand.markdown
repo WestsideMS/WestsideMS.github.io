@@ -12,7 +12,7 @@ excerpt: SNU-SAMSUNG project (2016-2020)
 external-website: http://dyros.snu.ac.kr/project/%EC%9E%90%EC%9C%A8-%EB%B0%9C%EB%A0%9B-%ED%8C%8C%ED%82%B9/
 
 image: /assets/img/project-images/3.hand/valet_project.png
-imageAlt: HQP logo
+imageAlt: 
 image-slider: /assets/img/project-images/3.hand/valet_project.png
 
 ---

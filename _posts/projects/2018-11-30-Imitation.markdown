@@ -9,7 +9,7 @@ tags: MPC
 excerpt: Considering the recursive feasibility and stability of the MPC problem while parking maneuver  
 
 image: /assets/img/project-images/1.mobile/auto_switching.png
-imageAlt: HQP logo
+imageAlt: 
 image-slider: /assets/img/project-images/1.mobile/auto_switching.png
 
 ---

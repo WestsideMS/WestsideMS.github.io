@@ -11,7 +11,7 @@ excerpt: We particaped in DRC Finals 2015, as Team SNU.
 external-website: http://dyros.snu.ac.kr/drc-comp/
 
 image: /assets/img/project-images/4.drc/ms_main.jpg
-imageAlt: HQP logo
+imageAlt: 
 image-slider: /assets/img/project-images/4.drc/ms_main.jpg
 
 ---

@@ -11,7 +11,7 @@ excerpt: We participated in KOREA AUTONOMOUS VEHICLE CONTEST 2013 and won 5th pl
 external-website: http://dyros.snu.ac.kr/project/korea-autonomous-vehicle-contest-2013/
 
 image: /assets/img/project-images/5.cpr/vehicle_conteset1.jpg
-imageAlt: HQP logo
+imageAlt: 
 image-slider: /assets/img/project-images/5.cpr/vehicle_conteset2.JPG
 
 ---

@@ -12,7 +12,7 @@ github: https://github.com/WestsideMS
 # external-website: http://dyros.snu.ac.kr/hqptasks/
 
 image: /assets/img/project-images/2.task/mpc_carsim.png
-imageAlt: HQP logo
+imageAlt: 
 image-slider: /assets/img/project-images/2.task/mpc_carsim.png
 
 ---
