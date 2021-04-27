@@ -6,7 +6,7 @@ date:   2018-12-04 7:00:00 -0400
 permalink: /robothand-project
 categories: projects
 tags: HQP
-excerpt: In this project,  
+excerpt: SNU-SAMSUNG project (2016-2020) 
 
 # github: https://github.com/ggory15/HQP_DualArmMobile
 external-website: http://dyros.snu.ac.kr/project/%EC%9E%90%EC%9C%A8-%EB%B0%9C%EB%A0%9B-%ED%8C%8C%ED%82%B9/
