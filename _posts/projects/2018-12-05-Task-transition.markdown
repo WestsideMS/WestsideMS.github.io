@@ -1,11 +1,11 @@
 ---
 layout: post
-title: Ongoing-project, Path-following and collision avoidance with Variable Interval Prediction MPC (VIP-MPC)
-author: Minsung Kim
+title: Ongoing-project, 
+author: Sanghyun Kim
 date:   2018-12-05 7:00:00 -0400
-permalink: MPC
+permalink: /tasktransition-project
 categories: projects
-tags: MPC
+tags: HQP
 excerpt: Path-following and collision avoidance with Variable Interval Prediction MPC (VIP-MPC)
 
 github: https://github.com/WestsideMS
