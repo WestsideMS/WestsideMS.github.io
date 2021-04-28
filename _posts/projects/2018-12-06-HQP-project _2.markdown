@@ -1,23 +1,28 @@
 ---
 layout: post
-title: Model Predictive Control Method for Autonomous Vehicles using Time-Varying and Non-uniformly Spaced Horizon
+title: (Ongoing-project) SLAM + Yolo (v.3) + Informed RRT star + MPC path-following 
 author: Minsung Kim
 date:   2018-12-06 7:00:00 -0400
 permalink: /MPC
 categories: projects
-tags: Path-following, MPC, Collision avoidance, Intelligent vehicle
-excerpt: In this study, a path-following and obstacle-avoidance algorithm was proposed for an autonomous vehicle that varied sampling time of the MPC prediction model. The path-following and collision avoidance performances were evaluated using both the CARLA simulator and a real vehi-cle.
+tags: Path-following, MPC, Collision avoidance
+excerpt: In this project, an automatic integrated parking system is implemented to address the limitations of modules.
 
-github: https://github.com/WestsideMS
+#github: https://github.com/WestsideMS
 # external-website: http://dyros.snu.ac.kr/project/non-holonomic-mobile-manipulator/
 
-image: /assets/img/project-images/1.mobile/mpc_access.png
+image: /assets/img/project-images/1.mobile/yolo_park.png
 imageAlt: MPC
-image-slider: /assets/img/project-images/1.mobile/mpc_access.png
+image-slider: /assets/img/project-images/1.mobile/yolo_park.png
 
 ---
 ### Overview
-This paper proposes an algorithm for path-following and collision avoidance of an autonomous vehicle based on model predictive control (MPC) using time-varying and non-uniformly spaced horizon. The MPC based on non-uniformly spaced horizon approach uses the time intervals that are small for the near future, and time intervals that are large for the distant future, to extend the length of the whole prediction horizon with a fixed number of prediction steps. This MPC has the advantage of being able to detect obstacles in advance because it can see the distant future. However, the presence of longer time interval samples may lead to poor path-following performance, especially for paths with high curvature. The proposed algorithm performs proper adjustment of the prediction interval according to a given situation. For sections with large curvature, it uses the short prediction intervals to increase the path-following performance; further, to consider obstacles over a wider range, it uses the long prediction intervals. This technique allows simultaneous improvement of the path-following performance and the range of obstacle avoidance with fixed computational complexity. The effectiveness of the proposed method is verified through an open-source simulator, CARLA and real-time experiments.
+---- Automatic integrated parking system ---- 
+
+- Localization: LeGO-LOAM SLAM (https://github.com/RobustFieldAutonomyLab/LeGO-LOAM​)
+- Recognition: Deep learning-based parking lot detection YOLO (v.3) (J. Redmon et al, YOLOv3: An Incremental Improvement, arXiv 1804.02767)
+- Path planning: Informed RRT star (OMPL:https://ompl.kavrakilab.org/​)
+- Path-following: Model predictive controller using a dynamic bicycle model
 
 <!-- ### Experimental Equipments
 The system consists of two robots. The mobile base is [**Clearpath Husky**](https://www.clearpathrobotics.com/husky-unmanned-ground-vehicle-robot/) and the manipulator is [**Franka Emika Panda**](https://www.franka.de/panda/).
@@ -54,7 +59,7 @@ It has a powerful computation unit to solve complicated whole-body dynamics and 
 <div class="row projects-display">
     <div class="seven columns images">
         <div class="video-container">
-            <iframe width="560" height="315" src="https://www.youtube.com/embed/eo7fYDLGQcg" frameborder="0" allowfullscreen></iframe>
+            <iframe width="560" height="315" src="https://www.youtube.com/embed/lnz1ppNMHq0" frameborder="0" allowfullscreen></iframe>
         </div>
     </div> 
 </div>
