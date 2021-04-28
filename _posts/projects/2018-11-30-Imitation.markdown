@@ -18,7 +18,7 @@ This is an ongoing project in order to address the recursive feasibility and sta
 
 ### Algorithms and Results
 <div class="row projects-display">
-	<div class="six columns">
+	<div class="seven columns">
         <div class="video-container">
             <iframe width="560" height="315" src="https://www.youtube.com/embed/KJVo_7RSWbk" frameborder="0" allowfullscreen></iframe>
         </div>

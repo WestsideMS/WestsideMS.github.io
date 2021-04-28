@@ -37,7 +37,7 @@ We participated in KOREA AUTONOMOUS VEHICLE CONTEST and won 5th place.
 
 ### Contest Results
 <div class="row projects-display">
-    <div class="six columns images">
+    <div class="seven columns images">
         <div class="video-container">
             <iframe width="560" height="315" src="https://www.youtube.com/embed/EyjRJQamkrg" frameborder="0" allowfullscreen></iframe>
         </div>

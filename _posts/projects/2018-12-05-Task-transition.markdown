@@ -21,7 +21,7 @@ The robots with high Degrees of Freedom (DoF) such as humanoids and mobile manip
 
 ### Experimental Results
 <div class="row projects-display">
-    <div class="six columns images">
+    <div class="seven columns images">
         <div class="video-container">
             <iframe width="560" height="315" src="https://www.youtube.com/embed/zjRWDb2kr3o" frameborder="0" allowfullscreen></iframe>
         </div>

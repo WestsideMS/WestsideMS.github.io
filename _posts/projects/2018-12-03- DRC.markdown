@@ -26,7 +26,7 @@ SimLab provides the software framework and interface to the robot for Team SNU. 
 
 ### Experimental Equipments
 <div class="row projects-display">
-	<div class="six columns images">
+	<div class="seven columns images">
 		<div class="flexslider">
 			<ul class="slides">
 	  			<li>
@@ -35,14 +35,14 @@ SimLab provides the software framework and interface to the robot for Team SNU. 
 					</div>
 				</li>
 				<li>  
-					<div class="six columns images">
+					<div class="seven columns images">
 						<img alt="JUCE" src="http://dyros.snu.ac.kr/wp-content/uploads/2016/07/IMG_5480-609x1024.png">
 					</div>
 				</li>  
 			</ul>
 		</div>
 	</div>	
-	<div class="six columns">
+	<div class="seven columns">
 		<h5> THORMANG </h5>
 		<li> Height: 4ft 10in (1.47m) </li>
 		<li> Weight: 108lbs (49kg) </li>
@@ -63,12 +63,12 @@ SimLab provides the software framework and interface to the robot for Team SNU. 
 
 ### Experimental Results
 <div class="row projects-display">
-    <div class="six columns images">
+    <div class="seven columns images">
         <div class="video-container">
             <iframe width="560" height="315" src="https://www.youtube.com/embed/aWpyfKkbzf0" frameborder="0" allowfullscreen></iframe>
         </div>
     </div>
-    <div class="six columns">
+    <div class="seven columns">
         <h5> Results at the DARPA Robotics Challenge Finals 2015 </h5>
         <li> We obtained 4 points for 58 min and our team finished in 12th place out of 23 teams. We used up most of the performance time for walking, because the DSP time during walking was greatly increased due to the uneven ground surface in the stadium. </li>
 		<li> However, the manipulating time 15 for the driving, th door, the valve, and the wall were 00:01:26 (5th), 00:18:16 (19th), 00:01:01 (3rd), and 00:06:40 (1st), respectively. Also, Team SNU’s robot successfully finished the final without falling, while the bipedal robots used by many of the other teams fell down on the ground. </li>
@@ -76,19 +76,19 @@ SimLab provides the software framework and interface to the robot for Team SNU. 
         </div>
 </div>
 <div class="row projects-display">
-	<div class="six columns">
+	<div class="seven columns">
         <h5> Lab Test #1 - Driving </h5>
         <li> We made the viewer for seeing top-view.		
 		</li>
 	</div>
-    <div class="six columns images">
+    <div class="seven columns images">
         <div class="video-container">
             <iframe width="560" height="315" src="https://www.youtube.com/embed/Z_X1akUrcZw" frameborder="0" allowfullscreen></iframe>
         </div>
     </div>
 </div>
 <div class="row projects-display">
-    <div class="six columns images">
+    <div class="seven columns images">
         <div class="video-container">
             <iframe width="560" height="315" src="https://www.youtube.com/embed/K7mIsJ68DoU" frameborder="0" allowfullscreen></iframe>
         </div>
@@ -100,48 +100,48 @@ SimLab provides the software framework and interface to the robot for Team SNU. 
 	</div>
 </div>
 <div class="row projects-display">
-	<div class="six columns">
+	<div class="seven columns">
         <h5> Lab Test #3 and #4 - Door and Valve </h5>
         <li> with RANSAC algorithm.		
 		</li>
 	</div>
-    <div class="six columns images">
+    <div class="seven columns images">
         <div class="video-container">
             <iframe width="560" height="315" src="https://www.youtube.com/embed/sGygMAmyrdo" frameborder="0" allowfullscreen></iframe>
         </div>
     </div>
 </div>
 <div class="row projects-display">
-    <div class="six columns images">
+    <div class="seven columns images">
         <div class="video-container">
             <iframe width="560" height="315" src="https://www.youtube.com/embed/iGJuDUlzrqs" frameborder="0" allowfullscreen></iframe>
         </div>
     </div>
-	<div class="six columns">
+	<div class="seven columns">
         <h5> Lab Test #5 - Wall </h5>
         <li> We developed the special hand to operate the drill.		
 		</li>
 	</div>
 </div>
 <div class="row projects-display">
-	<div class="six columns">
+	<div class="seven columns">
         <h5> Lab Test #6 - Debris </h5>
         <li> We didn't try this motion in the competition.			
 		</li>
 	</div>
-    <div class="six columns images">
+    <div class="seven columns images">
         <div class="video-container">
             <iframe width="560" height="315" src="https://www.youtube.com/embed/EsAEBpE1PWg" frameborder="0" allowfullscreen></iframe>
         </div>
     </div>
 </div>
 <div class="row projects-display">
-    <div class="six columns images">
+    <div class="seven columns images">
         <div class="video-container">
             <iframe width="560" height="315" src="https://www.youtube.com/embed/QpRXsHKQf_s" frameborder="0" allowfullscreen></iframe>
         </div>
     </div>
-	<div class="six columns">
+	<div class="seven columns">
         <h5> Lab Test #7 - Stair </h5>
         <li> We made whole-body motion!	
 		</li>
