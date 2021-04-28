@@ -19,9 +19,9 @@ image-slider: /assets/img/project-images/1.mobile/yolo_park.png
 ### Overview
 ---- Automatic integrated parking system ---- 
 
-- Localization: LeGO-LOAM SLAM (https://github.com/RobustFieldAutonomyLab/LeGO-LOAM​)
+- Localization: LeGO-LOAM SLAM 
 - Recognition: Deep learning-based parking lot detection YOLO (v.3) (J. Redmon et al, YOLOv3: An Incremental Improvement, arXiv 1804.02767)
-- Path planning: Informed RRT star (OMPL:https://ompl.kavrakilab.org/​)
+- Path planning: Informed RRT star (OMPL​)
 - Path-following: Model predictive controller using a dynamic bicycle model
 
 <!-- ### Experimental Equipments
