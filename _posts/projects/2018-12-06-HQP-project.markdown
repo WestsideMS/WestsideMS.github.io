@@ -19,6 +19,12 @@ image-slider: /assets/img/project-images/1.mobile/mpc_access.png
 ### Overview
 This paper proposes an algorithm for path-following and collision avoidance of an autonomous vehicle based on model predictive control (MPC) using time-varying and non-uniformly spaced horizon. The MPC based on non-uniformly spaced horizon approach uses the time intervals that are small for the near future, and time intervals that are large for the distant future, to extend the length of the whole prediction horizon with a fixed number of prediction steps. This MPC has the advantage of being able to detect obstacles in advance because it can see the distant future. However, the presence of longer time interval samples may lead to poor path-following performance, especially for paths with high curvature. The proposed algorithm performs proper adjustment of the prediction interval according to a given situation. For sections with large curvature, it uses the short prediction intervals to increase the path-following performance; further, to consider obstacles over a wider range, it uses the long prediction intervals. This technique allows simultaneous improvement of the path-following performance and the range of obstacle avoidance with fixed computational complexity. The effectiveness of the proposed method is verified through an open-source simulator, CARLA and real-time experiments.
 
+
+### GOAL
+- Expending the length of the whole horizon of MPC
+- Mitigating the degradation of control performance
+- Reducing the computational complexity
+
 <!-- ### Experimental Equipments
 The system consists of two robots. The mobile base is [**Clearpath Husky**](https://www.clearpathrobotics.com/husky-unmanned-ground-vehicle-robot/) and the manipulator is [**Franka Emika Panda**](https://www.franka.de/panda/).
 
