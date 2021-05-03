@@ -16,6 +16,11 @@ image-slider: /assets/img/project-images/1.mobile/auto_switching.png
 ### Overview
 This is an ongoing project in order to address the recursive feasibility and stability of the MPC problem while parking maneuver.
 
+
+### GOAL
+- Considering the recursive feasibility and stability of the MPC problem while parking maneuver
+
+
 ### Algorithms and Results
 <div class="row projects-display">
 	<div class="seven columns">
