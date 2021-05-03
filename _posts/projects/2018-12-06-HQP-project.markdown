@@ -4,7 +4,7 @@ title: Model Predictive Control Method for Autonomous Vehicles using Time-Varyin
 author: Minsung Kim
 date:   2018-12-06 7:00:00 -0400
 permalink: /MAIN-MPC
-categories:  
+categories: projects 
 tags: Path-following, MPC, Collision avoidance, Intelligent vehicle
 excerpt: In this study, a path-following and obstacle-avoidance algorithm was proposed for an autonomous vehicle that varied sampling time of the MPC prediction model. The path-following and collision avoidance performances were evaluated using both the CARLA simulator and a real vehicle.
 
