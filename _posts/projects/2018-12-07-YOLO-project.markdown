@@ -3,7 +3,7 @@ layout: post
 title: (Ongoing-project) SLAM + Yolo (v.3) + Informed RRT star + MPC path-following 
 author: Minsung Kim
 date:   2018-12-06 7:00:00 -0400
-permalink: /MPC
+permalink: /Integrated-MPC
 categories: projects
 tags: Path-following, MPC, Collision avoidance
 excerpt: In this project, an automatic integrated parking system is implemented to address the limitations of modules.

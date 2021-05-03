@@ -3,7 +3,7 @@ layout: post
 title: SMART CAMPUS PROJECT, SAMSUNG (SAIT)
 author: Misung Kim
 date:   2018-12-04 7:00:00 -0400
-permalink: /robothand-project
+permalink: /SAIT-project
 categories: projects
 tags: HQP
 excerpt: SNU-SAMSUNG project (2016-2020) 
