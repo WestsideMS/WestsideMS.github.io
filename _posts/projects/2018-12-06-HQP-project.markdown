@@ -21,7 +21,7 @@ This paper proposes an algorithm for path-following and collision avoidance of a
 
 
 ### GOAL
-- Expending the length of the whole horizon of MPC
+- Extending the length of the whole horizon of MPC
 - Mitigating the degradation of control performance
 - Reducing the computational complexity
 
