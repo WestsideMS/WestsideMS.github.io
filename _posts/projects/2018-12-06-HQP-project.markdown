@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Model Predictive Control Method for Autonomous Vehicles using Time-Varying and Non-uniformly Spaced Horizon
+title: Model Predictive Control Method for Autonomous Vehicles using Time-Varying and Non-uniformly Spaced Horizon(accepted since 21.05.16, IEEE ACCESS)
 author: Minsung Kim
 date:   2018-12-06 7:00:00 -0400
 permalink: /MAIN-MPC
